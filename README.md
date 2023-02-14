@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently doing Bachelor's of Computer Science from **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently contributing projects to **Open Source**
 
 - 👯 I’m enthusiatic to collaborate on **OpenSource Projects**
 
