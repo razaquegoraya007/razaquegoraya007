@@ -14,7 +14,7 @@
 
 - 👨‍💻 Projects that i have done are available on **[My Portfolio](https://github.com/razaquegoraya007)**
 
-- 📫 How to reach me **arazaque.bscsses21@iba-suk.edu.pk**
+- 📫 How to reach me **razaqueg007@gmail.com**
 
 - ⚡ Fun fact **Music Lover**
 
