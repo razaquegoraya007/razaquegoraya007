@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🔭 I’m currently doing Bachelor's of Computer Science from **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
+- 🔭 I have completed my Bachelor's of Computer Science from **[Sukkur IBA University](https://www.iba-suk.edu.pk/)**
 
 - 🌱 I’m currently contributing projects to **Open Source**
 
